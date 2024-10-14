@@ -1,0 +1,12 @@
+{
+  "name": "module_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/file-manager.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "RS School Node.js course"
+}
